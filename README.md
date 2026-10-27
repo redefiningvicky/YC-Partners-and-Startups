@@ -3,7 +3,5 @@
 This project connects YC partners to the startups they founded, including each company's description, founded year, batch, team size, status, industries, location, and website. <p>
 ## 🛠️ Tools <br>
 • <b>Database Management:</b> Microsoft Access <p>
-## 📄 PDF <br>
-This project is a fully functional pdf available at the following link: [View YC Partners Report](https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/307e2124a92362bc5358db7dc1ce937c5ff291d3/YC_Partners_Report.pdf), [View YC Startup Directory Form](https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/307e2124a92362bc5358db7dc1ce937c5ff291d3/YC_Startup_Directory_Form.pdf). <p>
-![me]()
-![me]()
+## 🪑 Tables <br>
+[View YC Partners Table](https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/1fd91208c1fd5c2a7f6a78be984cb798e7dc3d51/YC_Partners_Table.png), [View YC Startup Directory Table](https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/1fd91208c1fd5c2a7f6a78be984cb798e7dc3d51/YC_Startup_Directory_Table.png). <p>
