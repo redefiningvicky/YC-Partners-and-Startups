@@ -8,7 +8,7 @@ YC Partners Table:
 <table>
   <tr>
     <td>
-      <img src="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/1fd91208c1fd5c2a7f6a78be984cb798e7dc3d51/YC_Partners_Table.png?raw=true" alt="YC Partners table">
+      <img src="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/21ae7f742094b754bb92b932c084a274733db6cb/YC_Partners_Table.png?raw=true" alt="YC Partners table">
     </td>
   </tr>
 </table>
