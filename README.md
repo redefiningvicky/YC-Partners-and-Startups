@@ -4,7 +4,7 @@ This project uses Microsoft Access to connect Y Combinator partners to the start
 ## 🛠️ Tools <br>
 • <b>Database Management:</b> Microsoft Access <p>
 ## 🪑 Tables <br>
-YC Partners Table:
+### YC Partners Table
 <table>
   <tr>
     <td>
@@ -13,7 +13,7 @@ YC Partners Table:
   </tr>
 </table>
 
-YC Startup Directory Table:
+### YC Startup Directory Table
 <table>
   <tr>
     <td>
