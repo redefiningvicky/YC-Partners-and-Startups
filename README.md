@@ -2,7 +2,7 @@
 ## 🎯 Objective <br>
 This project uses Microsoft Access to connect Y Combinator partners to the startups they founded, including each company’s description, founded year, batch, team size, status, industries, location, and website. The data was collected from the YC website.
 ## 🛠️ Tools <br>
-• Microsoft Access <p>
+Microsoft Access <p>
 ## 🪑 Tables <br>
 ### YC Partners Table
 <table>
