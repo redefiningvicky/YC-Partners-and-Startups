@@ -1,12 +1,60 @@
-# 🟧 YC Partners and Startups
-## 🎯 Objective <br>
-This project uses Microsoft Access to connect Y Combinator partners to the startups they founded, including each company’s description, founded year, batch, team size, status, industries, location, and website. The data was collected from the YC website.
-## 🛠️ Tools <br>
-Microsoft Access <p>
+
+<div align="center">
+
+  <h1>🟧 YC Partners and Startups</h1>
+
+  <p>
+    A relational database connecting Y Combinator partners
+    with the startups they founded.
+  </p>
+
+</div>
 
 <hr>
 
-<h2 id="dataset">🗄️ Dataset</h2>
+<h2>📑 Table of Contents</h2>
+
+<ul>
+  <li><a href="#objective">Objective</a></li>
+  <li><a href="#project-details">Project Details</a></li>
+  <li><a href="#access-database">Access Database</a></li>
+  <li><a href="#dataset">Dataset</a></li>
+  <li><a href="#images">Images</a></li>
+</ul>
+
+<hr>
+
+<h2 id="objective">🎯 Objective</h2>
+
+<p>
+  This project uses Microsoft Access to connect Y Combinator
+  partners to the startups they founded, including each
+  company's description, founded year, batch, team size,
+  status, industries, location, and website. The data
+  was collected from the YC website.
+</p>
+
+<hr>
+
+<h2 id="project-details">🛠️ Project Details</h2>
+
+<p>
+  <strong>Tools:</strong> Microsoft Access
+</p>
+
+<hr>
+
+<h2 id="access-database">🗄️ Access Database</h2>
+
+<p>
+  <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups.accdb">
+    View Access Database
+  </a>
+</p>
+
+<hr>
+
+<h2 id="dataset">📊 Dataset</h2>
 
 <h3>YC Partners Table</h3>
 
@@ -30,28 +78,58 @@ Microsoft Access <p>
   <li>Status</li>
   <li>Industry 1</li>
   <li>Industry 2</li>
-  <li>Team Size</li>
   <li>Location</li>
   <li>Website</li>
 </ul>
 
 <hr>
 
-## 🪑 Tables <br>
-### YC Partners Table
+<h2 id="images">🖼️ Images</h2>
+
+<h3>YC Partners Table</h3>
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/21ae7f742094b754bb92b932c084a274733db6cb/YC_Partners_Table.png?raw=true" alt="YC Partners table">
+      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_Table.png">
+        <img
+          src="YC_Partners_Table.png"
+          alt="YC Partners table in Microsoft Access"
+          width="100%"
+        />
+      </a>
     </td>
   </tr>
 </table>
 
-### YC Startup Directory Table
+<h3>YC Startup Directory Table</h3>
+
 <table>
   <tr>
     <td>
-      <img src="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/1fd91208c1fd5c2a7f6a78be984cb798e7dc3d51/YC_Startup_Directory_Table.png?raw=true" alt="YC Startup Directory table">
+      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Startup_Directory_Table.png">
+        <img
+          src="YC_Startup_Directory_Table.png"
+          alt="YC Startup Directory table in Microsoft Access"
+          width="100%"
+        />
+      </a>
     </td>
   </tr>
 </table>
+
+<hr>
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/redefiningvicky/Technical-Projects">
+      Back to Technical Projects
+    </a>
+    &nbsp; • &nbsp;
+    <a href="https://github.com/redefiningvicky/redefiningvicky">
+      Back to Portfolio
+    </a>
+  </p>
+
+</div>
