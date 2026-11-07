@@ -17,7 +17,6 @@
 <ul>
   <li><a href="#objective">Objective</a></li>
   <li><a href="#project-details">Project Details</a></li>
-  <li><a href="#access-database">Access Database</a></li>
   <li><a href="#dataset">Dataset</a></li>
   <li><a href="#images">Images</a></li>
 </ul>
@@ -70,6 +69,13 @@
   <li>Industry 2</li>
   <li>Location</li>
   <li>Website</li>
+</ul>
+
+<h3>Join</h3>
+
+<ul>
+  <li>Company Name (YC Partners Table)</li>
+  <li>Startup Name (YC Startup Directory Table)</li>
 </ul>
 
 <hr>
