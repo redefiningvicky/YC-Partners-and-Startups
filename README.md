@@ -31,7 +31,7 @@
   partners to the startups they founded, including each
   company's description, founded year, batch, team size,
   status, industries, location, and website. The data
-  was collected from the YC website and organized in Microsoft Access.
+  was collected from the YC website and joined with Microsoft Access.
 </p>
 
 <hr>
