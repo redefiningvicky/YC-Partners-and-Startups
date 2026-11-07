@@ -114,8 +114,6 @@
   </tr>
 </table>
 
-<hr>
-
 <h3>YC Partners and Startups Relationships</h3>
 
 <table>
