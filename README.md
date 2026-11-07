@@ -44,16 +44,6 @@
 
 <hr>
 
-<h2 id="access-database">🗄️ Access Database</h2>
-
-<p>
-  <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups.accdb">
-    View Access Database
-  </a>
-</p>
-
-<hr>
-
 <h2 id="dataset">📊 Dataset</h2>
 
 <h3>YC Partners Table</h3>
