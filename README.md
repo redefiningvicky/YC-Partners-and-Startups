@@ -1,4 +1,3 @@
-
 <div align="center">
 
   <h1>🟧 YC Partners and Startups</h1>
@@ -23,7 +22,8 @@
 
 <hr>
 
-<h2 id="objective">🎯 Objective</h2>
+<a name="objective"></a>
+<h2>🎯 Objective</h2>
 
 <p>
   This project connects Y Combinator
@@ -35,7 +35,8 @@
 
 <hr>
 
-<h2 id="project-details">🛠️ Project Details</h2>
+<a name="project-details"></a>
+<h2>🛠️ Project Details</h2>
 
 <p>
   <strong>Tools:</strong> Microsoft Access
@@ -43,7 +44,8 @@
 
 <hr>
 
-<h2 id="dataset">📊 Dataset</h2>
+<a name="dataset"></a>
+<h2>📊 Dataset</h2>
 
 <h3>YC Partners Table</h3>
 
@@ -80,16 +82,17 @@
 
 <hr>
 
-<h2 id="images">🖼️ Images</h2>
+<a name="images"></a>
+<h2>🖼️ Images</h2>
 
 <h3>YC Partners Table</h3>
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Partners_Table.png">
+      <a href="YC_Partners_and_Startups/YC_Partners_Table.png">
         <img
-          src="YC_Partners_Table.png"
+          src="YC_Partners_and_Startups/YC_Partners_Table.png"
           alt="YC Partners table in Microsoft Access"
           width="100%"
         />
@@ -103,9 +106,9 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Startup_Directory_Table.png">
+      <a href="YC_Partners_and_Startups/YC_Startup_Directory_Table.png">
         <img
-          src="YC_Startup_Directory_Table.png"
+          src="YC_Partners_and_Startups/YC_Startup_Directory_Table.png"
           alt="YC Startup Directory table in Microsoft Access"
           width="100%"
         />
@@ -118,9 +121,10 @@
 
 <table>
   <tr>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Partners_and_Startups_Relationships.png">
+    <td>
+      <a href="YC_Partners_and_Startups/YC_Partners_and_Startups_Relationships.png">
         <img
-          src="YC_Partners_and_Startups_Relationships.png"
+          src="YC_Partners_and_Startups/YC_Partners_and_Startups_Relationships.png"
           alt="YC Partners and Startups Relationships in Microsoft Access"
           width="100%"
         />
