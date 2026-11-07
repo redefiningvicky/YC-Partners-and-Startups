@@ -87,7 +87,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_Table.png">
+      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Partners_Table.png">
         <img
           src="YC_Partners_Table.png"
           alt="YC Partners table in Microsoft Access"
@@ -103,7 +103,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Startup_Directory_Table.png">
+      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Startup_Directory_Table.png">
         <img
           src="YC_Startup_Directory_Table.png"
           alt="YC Startup Directory table in Microsoft Access"
@@ -118,8 +118,7 @@
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups_Relationships.png">
+      <a href="https://github.com/redefiningvicky/YC-Partners-and-Startups/blob/main/YC_Partners_and_Startups/YC_Partners_and_Startups_Relationships.png">
         <img
           src="YC_Partners_and_Startups_Relationships.png"
           alt="YC Partners and Startups Relationships in Microsoft Access"
