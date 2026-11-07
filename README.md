@@ -27,11 +27,11 @@
 <h2 id="objective">🎯 Objective</h2>
 
 <p>
-  This project uses Microsoft Access to connect Y Combinator
+  This project connects Y Combinator
   partners to the startups they founded, including each
   company's description, founded year, batch, team size,
   status, industries, location, and website. The data
-  was collected from the YC website.
+  was collected from the YC website and entered into Microsoft Access.
 </p>
 
 <hr>
